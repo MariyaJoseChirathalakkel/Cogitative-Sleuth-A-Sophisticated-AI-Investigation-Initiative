@@ -1,13 +1,9 @@
-# Cogitative-Sleuth-A-Sophisticated-AI-Investigation-Initiative
-
+# Cogitative Sleuth: A Sophisticated AI Investigation Initiative
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Methodology](#methodology)
-    1. [Case 1: Lying or Not](#case-1-lying-or-not)
-    2. [Case 2: What was the Motive?](#case-2-what-was-the-motive)
-    3. [Case 3: Who is the Culprit?](#case-3-who-is-the-culprit)
 3. [Results](#results)
 4. [Conclusion](#conclusion)
 5. [Future Works](#future-works)
@@ -16,48 +12,28 @@
 
 ## Introduction <a name="introduction"></a>
 
-GPT has evolved from its initial application in informal talks to its current utilization in complex activities across various industries. The progress of GPT is clearly visible through its updates. According to an OpenAI document on GPT 4, it has demonstrated enhanced capabilities in reasoning and knowledge retention. Additionally, one of the safety challenges that has been noted is the possibility for risky emergent behavior. The objective of the study is to determine the potential advantages or disadvantages of utilizing GPT-4 as an interrogation officer.
+The Cogitative Sleuth project explores the potential of leveraging AI, specifically the GPT-4 model, as an interrogation tool. The aim is to assess its effectiveness and limitations in investigative scenarios.
 
 ## Methodology <a name="methodology"></a>
 
-### Case 1: Lying or Not <a name="case-1-lying-or-not"></a>
-
-Case Details:
-
-Amy, a floor manager at a care home, made a false accusation against one of the staff members at the same care facility. The accusation is that the staff engaged in a willful act of neglect towards one of the service users. However, there is dissenting opinion among other staff members.
-
-Investigation Method Performed:
-
-This study assessed the effectiveness of a chatbot utilizing the GPT-4 model in a simulated investigative conversation with a student role-playing as Amy. The objective was to evaluate the chatbot's capacity to ascertain the honesty of an individual's answers and collect case-related information.
-
-[Continue the methodology for Case 2 and Case 3...]
+The study comprises three cases, each evaluating the AI's performance in different investigative scenarios. The methodology involves simulated conversations with the AI, analyzing its ability to gather relevant information and make deductions.
 
 ## Results <a name="results"></a>
 
-Upon a comprehensive analysis of the results from all three cases, the findings can be succinctly summarized as follows:
-
-[Summarize the key findings...]
+Findings suggest promising capabilities of the AI in initiating conversations and formulating relevant inquiries. However, limitations include difficulty in determining the truthfulness of responses and maintaining focus on the main issue.
 
 ## Conclusion <a name="conclusion"></a>
 
-The examination of the prompt employed in the three case studies, together with the ensuing dialogue with the bot, indicates that although the chatbot shows promise as an investigative tool, it has significant constraints. The main limitation is its incapacity to determine the truthfulness of the respondent's statements.
-
-[Conclude with the limitations and potential of the chatbot...]
+While the AI demonstrates potential as an investigative tool, significant constraints exist, particularly in assessing the veracity of statements. Further research and development are necessary to enhance its effectiveness.
 
 ## Future Works <a name="future-works"></a>
 
-These findings indicate that the chatbot has the capability to operate efficiently as an investigation tool. Nevertheless, in order to completely achieve this potential and overcome those identified constraints, additional research and development in other areas are necessary.
-
-[Discuss potential future enhancements...]
+Future efforts will focus on expanding the scope of inquiry, refining interrogation methods, and ensuring adherence to ethical standards in communication.
 
 ## References <a name="references"></a>
 
-1. [GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
-2. [LangChainWithFiles.ipynb](https://canvas.stir.ac.uk/courses/14732/files)
-3. [OpenAI Chat](https://chat.openai.com/) (Paraphrasing)
-4. [QuillBot](https://quillbot.com/) (Paraphrasing)
+References to relevant documentation and tools used in the project.
 
 ## Appendix <a name="appendix"></a>
 
-Some sample images of the chats with Bot.
-
+Sample images of conversations with the AI.
