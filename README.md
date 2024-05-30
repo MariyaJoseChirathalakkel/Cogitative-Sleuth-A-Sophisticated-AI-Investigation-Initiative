@@ -1,6 +1,6 @@
 # Cogitative Sleuth: A Sophisticated AI Investigation Initiative
 
-## File Descriptions
+
 
 | File Name                                      | Description                                                                           |
 |-----------------------------------------------|---------------------------------------------------------------------------------------|
@@ -11,6 +11,10 @@
 | Dialogue_2024-04-18_00-46-11.txt              | Dialogue file of AI communication with four individuals simultaneously, third case.       |
 | investigation_chat_file.pdf                   | PDF copy of dialogue file showcasing interactions between AI and multiple individuals.    |
 | Dialogue_Conclusion_2024-04-18_01-57-26.txt  | Final conclusion dialogue file of third case, summarizing investigation outcomes.         |
+
+
+
+
 
 
 ## Introduction <a name="introduction"></a>
