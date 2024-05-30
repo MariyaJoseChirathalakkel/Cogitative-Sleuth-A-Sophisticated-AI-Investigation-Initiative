@@ -1,15 +1,5 @@
 # Cogitative Sleuth: A Sophisticated AI Investigation Initiative
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Methodology](#methodology)
-3. [Results](#results)
-4. [Conclusion](#conclusion)
-5. [Future Works](#future-works)
-6. [References](#references)
-7. [Appendix](#appendix)
-8. [Requirements](#requirements)
 
 ## Introduction <a name="introduction"></a>
 
@@ -30,14 +20,6 @@ The conclusion reflects on the overall performance of GPT-4 as an investigative 
 ## Future Works <a name="future-works"></a>
 
 The future works section outlines potential areas for improvement in the AI's investigative capabilities. It suggests broadening the scope of inquiry, refining interrogation methods, and ensuring adherence to ethical standards. The section emphasizes the importance of ongoing research and development to overcome identified constraints.
-
-## References <a name="references"></a>
-
-The references section provides links to relevant documentation and tools used in the study, including the GPT-4 System Card and LangChainWithFiles.ipynb. It also acknowledges sources for paraphrased information from platforms like OpenAI Chat and QuillBot.
-
-## Appendix <a name="appendix"></a>
-
-The appendix contains sample images of conversations with the AI. These images offer visual insights into the simulated interrogations conducted as part of the study.
 
 ## Requirements <a name="requirements"></a>
 
