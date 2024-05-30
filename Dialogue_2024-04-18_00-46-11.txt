@@ -1,0 +1,296 @@
+User : Hello
+ChatBot : Hello Mia, I hope you're doing well today. I'd like to ask you a few questions to understand the situation better. Can you tell me how you first got involved with the housing arrangement?
+User : I met Joe while I was looking for a house this place.I met him on Facebook and that's how I got the room.but my name was not there in the tenancy agreement
+ChatBot : Did Joe explain why your name wouldn't be on the tenancy agreement?
+User : yes.He said there are only 5 rooms and we are 6 people.thats why
+ChatBot : Did Joe mention who the other people living in the house would be and how the rooms would be allocated?
+User : he did not say.he just said it will be his friends
+ChatBot : Did you meet or communicate with any of the other housemates before moving in, or was Joe your only point of contact?
+User : Joe was my only point of contact
+ChatBot : How did you feel about not meeting or knowing about the other housemates before moving in?
+User : I did not feel anything unusual. because all of them met recently 
+ChatBot : Did Joe provide you with any specific details about the rent and deposit amounts before you moved in?
+User : he told me the total rent is 1700 and each room will be 340.they are dividing it equally.so I need to pay one month rent advance and 100 pound deposit
+ChatBot : Did Joe mention anything about additional payments or deposits required for those without a guarantor?
+User : yes.he said he dont have guarantor.so he need to pay extra one month rent as non guarantor payment.if I can pay that amount or if I have a guarantor the agreement could be written in my name.since he was helping me with the house I told him I can give half of the non guarantor payment and am okay with writing the tenancy agreement in his name
+ChatBot : Did you ever receive a copy of the tenancy agreement or any official documentation related to the house from Joe or Susan?
+User : no
+ChatBot : Were you aware of how the total rent was divided among the eight housemates, and did Joe explain this division to you?
+User : no
+ChatBot : How did you come to realize there were eight people living in the house, and what was your reaction to this discovery?
+User : only when I started living there 
+ChatBot : Did you discuss your concerns about the unexpected number of housemates with Joe or Susan after discovering this?
+User : no.because they were in a different room and I was having my own room
+ChatBot : Did Joe or Susan ever discuss with you the details of how the rent and deposit payments were being managed and distributed among all the housemates?
+User : no.i only knew that my room rent is 340 and I was giving this amount 340 to three of them every month because the rent is shared among the for of us for 3 rooms.
+ChatBot : Did you receive any receipts or written acknowledgments for your monthly rent payments from Joe, Susan, or anyone else?
+User : no
+ChatBot : Were you ever informed or did you become aware of any discrepancies in the amount you were paying compared to the total house rent or what others were paying?
+User : no
+ChatBot : How did you feel about not receiving receipts or written acknowledgments for your rent payments?
+User : I was having my bank statement.so I thought its okay.moreover I trusted them 
+ChatBot : Did you have any direct communication with the property management or rental agency regarding payments or the tenancy agreement?
+User : no, because they were not aware that I was staying in that property
+ChatBot : Did you notice any unusual or secretive behavior from Joe, Susan, or any of the housemates regarding the financial arrangements or the property management?
+User : yes.joe always used to make complaints about money.especially when I was moving into a new house 
+ChatBot : Did Joe provide any specific reasons or explanations for these complaints about money when you were moving into the new house?
+User : he was talking like it was his right to get the room rent even when I am leaving the house 
+ChatBot : Did you discuss these complaints and Joe's expectations with any other housemates or seek their opinion on the matter?
+User : I discussed it with vishnu.he said he also have similar experiences from him regarding money.
+ChatBot : Did Vishnu share any details about how he handled his financial interactions with Joe or suggest any steps you could take?
+User : no.
+ChatBot : Did you or Vishnu ever confront Joe directly about these financial issues or attempt to clarify the situation with the entire group?
+User : I talked to him directly.he shouted on me as well as told bad things about vishnu
+ChatBot : Did Joe's reaction when confronted directly lead to any resolution, or did it escalate tensions among the housemates?
+User : it escalates tension among the four of us 
+ChatBot : Did the escalation of tension result in any housemates taking steps to address or resolve the issues, either through mediation or some other form of intervention?
+User : no
+ChatBot : Did the lack of resolution and continued tension impact your decision to stay in the house or your relationship with other housemates in any significant way?
+User : yes.i moved to a new house because of this 
+ChatBot : Did your decision to move and the issues with Joe influence how you communicated with the other housemates about financial matters or the overall living situation afterwards?
+User : no.i communicated to Susan only when I did not got my deposit back.i also showed Susan the proof for paying the advance and deposit amount while moved to that house.also showed the account details which Joe gave me 
+ChatBot : Did Susan provide any explanation or take any steps to help you recover the rest of your deposit after you showed her the proof of payment and account details?
+User : no.since Susan and jo are staying together Susan did not want to talk about this to Joe 
+ChatBot : Did you attempt to discuss this matter with any of the other housemates, or did you choose to limit your communication to Susan due to her role in handling the property agreement and financial processes?
+User : no
+ChatBot : Did you have any direct communication with the agency or any written agreement that acknowledged your contribution towards the rent and deposit?
+User : no
+ChatBot : Did you ever receive any official receipts or acknowledgments for the payments you made, either from Joe, Susan, or the agency?
+User : no
+ChatBot : Did Joe ever mention or provide a reason for why he could not send you the full amount of the deposit refund?
+User : no
+ChatBot : How did you feel when you realized you hadn't received the full amount of your deposit back, and what actions did you initially take to address this?
+User : I was depressed and I lost the trust in Joe and Susan 
+ChatBot : Did you express your feelings of depression and loss of trust to Joe, Susan, or any of the other housemates, and if so, what was their response?
+User : I expressed it to Susan 
+ChatBot : What was Susan's reaction when you expressed your feelings to her?
+User : she was talking like she is helpless 
+ChatBot : Did Susan provide any specific reasons why she felt helpless in this situation?
+User : yes.because she is staying with Joe and she do not remember anything about the deposit amount distribution.she also said she did not know me from the beginning.
+ChatBot : Did Susan mention if anyone else might have more information about the deposit amount distribution or suggest any next steps you could take?
+User : no
+ChatBot : Have you attempted to contact Joe directly about the missing portion of your deposit, and if so, what was his response?
+User : I messaged him on WhatsApp. when I told about it he shouted on me and said I was coming in the road like a bigger without any place to stay.even if I have payed the amount thats why he let me stay there for 2 years
+ChatBot : Did Joe's response seem to acknowledge the financial arrangement you had regarding the deposit and rent advances, or did he focus solely on providing you shelter?
+User : his response seemed to be a lye and not respecting me
+ChatBot : Did Joe ever discuss or acknowledge the specific amounts of money you provided to him for the deposit and rent advances at any point during your tenancy?
+User : no
+ChatBot : Did anyone else, besides Joe, have direct knowledge or involvement in the financial transactions between you and Joe, such as receiving or transferring money on his behalf?
+User : no
+ChatBot : Were there any written agreements or messages that could serve as evidence for the financial transactions between you and Joe?
+User : no
+ChatBot : Have you discussed this financial discrepancy with Susan or any of the other housemates, and if so, what was their reaction?
+User : sorry I need to go now.thank you
+ChatBot : Understood. If you have any further information or need assistance later, feel free to reach out. Thank you for your time.
+============================================================================================================================================================================================================================================================***End of Conversation with Mia***============================================================================================================================================================================================================================================================================================================================================================================================================
+User : hi
+ChatBot : Hello Joe, thank you for taking the time to speak with me today. I'd like to ask you a few questions to better understand the situation regarding the house rental and the arrangements made. Let's start with something simple. Can you tell me how you first got to know Mia?
+User : through Facebook 
+ChatBot : Did Mia approach you about the rental situation, or did you suggest it to her?
+User : she approached me 
+ChatBot : What was Mia's initial reaction when you told her about the rent and deposit amounts?
+User : she was willing to pay the amount
+ChatBot : How did you explain the payment and deposit structure to Mia?
+User : I sent message to her regarding the rent and deposit.i dont remember giving her the payment method 
+ChatBot : Did Mia express any concerns or confusion about the payment and deposit information you provided?
+User : no
+ChatBot : Did you inform Mia about the total number of people who would be living in the house?
+User : no.it was not confirmed at that moment
+ChatBot : How did Mia react when she found out about the total number of people living in the house?
+User : she didn't give any reaction 
+ChatBot : Did Mia ever discuss her concerns about the living arrangements or the number of people in the house with you after moving in?
+User : no
+ChatBot : Was Mia aware that she was not officially on the tenancy agreement?
+User : yes
+ChatBot : Did Mia express any concerns about not being on the tenancy agreement officially?
+User : no, but she said she will need an address in future.so she will change the house in future 
+ChatBot : Did Mia ever mention how soon she planned to change houses due to the address issue?
+User : no
+ChatBot : Did Mia ever ask you for the full amount of the deposit or rent advance she paid, before the refund was issued?
+User : yes.when she moved to new house she discussed it with me and I told I will give her the non guarantor deposit amount of 170 
+ChatBot : Did Mia specify when she expected the non-guarantor deposit amount from you?
+User : yes.she also talked anout advance 340 and deposit 100
+ChatBot : Did you agree to pay Mia the advance of 340 GBP and the deposit of 100 GBP she mentioned?
+User : I did not say anything.i agreed to pay non guatrentor deposit 170
+ChatBot : Did Mia understand that the non-guarantor deposit of 170 GBP was separate from the advance and deposit she mentioned?
+User : I dont know
+ChatBot : Did Mia express any concern or confusion about the financial arrangements and payments at any point?
+User : no
+ChatBot : How did you communicate the financial arrangements to Mia before moving in?
+User : why should I answer all these I did not take her money
+ChatBot : It's important to clarify the financial transactions to ensure fairness and transparency for everyone involved. Discussing these details can help resolve any misunderstandings and ensure that all parties are treated fairly. Can you tell me how the amount of 142 GBP you sent to Mia was calculated?
+User : I hot 383 from my deposit amount of 440. I reducesd the 100 pound deposit from that and decided the rest of the amount between two of us
+ChatBot : Did you inform Mia about how you calculated the amount of 142 GBP before sending it to her?
+User : after sending I explained 
+ChatBot : How did Mia react when you explained the calculation to her after sending the 142 GBP?
+User : she was not agreeing with me 
+ChatBot : Did Mia share her reasoning or provide any calculations on how she thought the refund should be divided?
+User : yes asked for more details about how the calculation was made 
+ChatBot : What specific details did Mia ask for regarding the calculation of the refund?
+User : how the agency decided the amount 
+ChatBot : Did you provide Mia with the information on how the agency calculated the refund amount?
+User : I dont know
+ChatBot : Did you attempt to get the calculation details from the agency to clarify Mia's doubts?
+User : no
+ChatBot : Why did you choose not to get the calculation details from the agency to clarify Mia's doubts?
+User : I think its a lottery that I got this much amount from my de[posit.rest is her problem
+ChatBot : Did you discuss with Mia how the deposit amount could vary based on deductions before the refund was issued?
+User : yes
+ChatBot : Did Mia express any concerns or dissatisfaction about the deposit and refund process before the refund was issued?
+User : yes
+ChatBot : How did Mia react when you explained the potential for variations in the refund amount?
+User : she seemed to be irritated and distressed with the missing amount 
+ChatBot : Did you provide Mia with any reassurance or solutions when she expressed her irritation and distress about the missing amount?
+User : no.its not my problem
+ChatBot : Did you inform Mia about the cleaning charge or any other deductions that could affect the refund amount?
+User : no.i dont wish to talk any more 
+ChatBot : Is there a specific reason you're hesitant to continue discussing the details of the refund process with Mia?
+User : because I am not responsible for all these 
+ChatBot : Who was responsible for managing the financial transactions and communications with the agency regarding payments and refunds?
+User : I dont know 
+ChatBot : How did you and your housemates decide who would handle the financial transactions and communications with the agency?
+User : I dont know.i need to go now 
+ChatBot : Before you go, can you tell me if you were aware of the total refund amount each tenant was supposed to receive from the agency?
+User : I dont know 
+ChatBot : Did you have any discussions with Susan or any other housemates about the refund process after vacating the house?
+User : I got my money thats it bye
+ChatBot : Before you leave, can you explain how the amount of 142 GBP you sent to Mia was calculated?
+User : I already told it
+ChatBot : Was the calculation based on the original agreement or any specific deductions?
+User : .
+ChatBot : Can you clarify what the original agreement stated regarding refunds and financial distributions among tenants?
+User : .
+ChatBot : How did you determine the amount to send to Mia without knowing the total refund amount?
+User : .
+ChatBot : Did you communicate with the agency directly about the refund, or was it handled by someone else?
+User : .
+ChatBot : Did you have any discussions with Susan or any other tenant about the refund process before it was initiated?
+User : .
+ChatBot : How did you feel when Mia contacted you about the discrepancy in the refund amount?
+=======================================================================================================================================================================================================================***End of conversation with Joe***=================================================================================================================================================================================================================================================================================================================================================================================================================================================
+User : hi
+ChatBot : Hello, Susan. I hope you're doing well today. I'd like to ask you a few questions to understand the situation better regarding Mia. Could you please tell me about your relationship with Mia?
+User : sure
+ChatBot : How would you describe your interactions with Mia during the time you all lived together?
+User : she was a kind lady.it was all good
+ChatBot : Did you notice any conflicts or issues involving Mia with anyone else in the house during your stay?
+User : yes.i think she had some issues with Joe.but I doing know about what 
+ChatBot : Can you elaborate on the nature of the issues Mia had with Joe, to the best of your knowledge?
+User : I dont know much about that.After one year Mia stopped conversation with others except vishnu 
+ChatBot : Did Mia ever share with you or anyone else, to your knowledge, why she stopped conversing with others except Vishnu?
+User : no
+ChatBot : Was there any change in the atmosphere of the house or in Mia's behavior after she stopped conversing with others, except for Vishnu?
+User : the house was not clean and vishnu was the only one who used to help her with cleaning house.i think she had OCD issues 
+ChatBot : Did Mia's OCD issues and the condition of the house cleanliness ever become a topic of discussion or cause tension among the housemates?
+User : some times.she wanted everything to be clean all the time 
+ChatBot : How did the other housemates, including yourself, respond to Mia's expectations for cleanliness?
+User : we helped her some times.but most of the time we were all busy 
+ChatBot : Did Mia express any dissatisfaction or frustration towards you or any other housemates regarding the help she received with cleaning?
+User : yes.she was crying some times about this and she wanted to leave the house 
+ChatBot : Did Mia ever discuss her financial contributions towards the house, such as rent or deposit, with you or anyone else in the house?
+User : no
+ChatBot : Was there any discussion among the housemates about the amount Mia paid, especially since she thought she was paying more than others?
+User : no
+ChatBot : Did anyone in the house express concerns or complaints about the financial arrangements, particularly regarding the rent and deposit amounts?
+User : no
+ChatBot : How did Susan manage the financial processes for the house, and were there any discrepancies or issues raised by any of the housemates?
+User : I was collecting money from everyone
+ChatBot : Did you keep records or receipts of the money you collected, and were these shared with all housemates, including Mia?
+User : no. I was in a bad state that I wanted a house 
+ChatBot : Did Mia ever approach you directly with concerns about the financial transactions or her contributions towards the house?
+User : she contacted to me when the agency transferred the mony
+ChatBot : What was Mia's primary concern when she contacted you regarding the money transferred by the agency?
+User : she said she did not get all of her money back
+ChatBot : Did Mia specify how much money she believed she was owed, and what was your response to her concern?
+User : yeast was 553
+ChatBot : How did you calculate the amount Mia was owed, and what explanation did you provide to her regarding the discrepancy?
+User : I dont remember these things 
+ChatBot : How did you handle Mia's concern after she contacted you about the discrepancy in the refund amount?
+User : I am not the one who should handle it
+ChatBot : Who did you suggest Mia should contact regarding the discrepancy in the refund amount?
+User : I didn't suggest anyone
+ChatBot : Why did you not suggest anyone for Mia to contact regarding the discrepancy in the refund amount?
+User : its not my issue
+ChatBot : How did you communicate to Mia that the discrepancy in the refund amount was not your issue to resolve?
+User : there is no point in talking about this to me now.she came through Joe 
+ChatBot : What was your role in managing the financial aspects of the house, such as collecting rent or handling the deposit?
+User : I already told you there is no point in discussing this with me 
+ChatBot : How did you ensure that all financial transactions, including rent and deposit payments, were handled transparently among all housemates?
+User : sorry I need to leave
+ChatBot : Before you go, could you please tell me if you were aware of the financial arrangements made between Mia and Joe?
+User : I was not aware 
+ChatBot : Did you ever discuss the rent and deposit amounts with any of the other housemates?
+User : no
+ChatBot : Were you involved in the decision-making process regarding who would be listed on the tenancy agreement and who would not?
+User : bye
+ChatBot : Before you leave, can you tell me if you had any discussions with Joe about the arrangements for Mia's rent and deposit?
+===========================================================================================================================================================================================================================================***End of conversation with Susan***=============================================================================================================================================================================================================================================================================================================================================================================================================================
+User : good morning 
+ChatBot : Good morning, Vishnu. How are you today?
+User : I am good
+ChatBot : It's nice to hear that you're doing well. Can you tell me how you first came to know Mia?
+User : I met her here.she called me to locate the house.and I helped her to move to house
+ChatBot : What was your first impression of Mia when you met her?
+User : nothing special
+ChatBot : Did Mia seem comfortable and settled once she moved into the house?
+User : yes
+ChatBot : How frequently did you interact with Mia after she moved into the house?
+User : every day
+ChatBot : Did you notice any changes in Mia's behavior or mood over time after she moved in?
+User : yes
+ChatBot : What kind of changes did you observe in Mia's behavior or mood?
+User : she seemed to be very sad 
+ChatBot : Did Mia share the reason for her sadness with you or anyone else in the house?
+User : she was not happy with the house atmosphere 
+ChatBot : What specific aspects of the house atmosphere did Mia find unsettling?
+User : cleanliness and getting crowded
+ChatBot : How did the other housemates, including yourself, respond to Mia's concerns about cleanliness and overcrowding?
+User : I helped her to clean the house and support her.but many of them ignored her
+ChatBot : Did Mia express any concerns or issues regarding the financial arrangements or payments within the house?
+User : no.she became quiet eventually 
+ChatBot : Did Mia's change in behavior, from expressing concerns to becoming quiet, happen around any specific event or time frame?
+User : yes.she started sitting in her room most of the time 
+ChatBot : Was there a particular incident or conversation that prompted Mia to spend more time alone in her room?
+User : no
+ChatBot : How did Mia's relationship with the other housemates, including you, change after she began spending more time alone in her room?
+User : she was friendly at first lately she became quiet 
+ChatBot : Did Mia have any close friends or confidants in the house with whom she continued to communicate after becoming more reserved?
+User : she was talking to me more than others 
+ChatBot : Did Mia share any specific reasons with you for feeling more comfortable talking to you compared to the other housemates?
+User : no
+ChatBot : Did Mia ever express any concerns or complaints about financial matters or the living arrangements to you?
+User : yes.she was having some money issues with joe
+ChatBot : Can you elaborate on the nature of the money issues Mia was having with Joe?
+User : I dont remmener clearly 
+ChatBot : Did Mia mention how she felt about the overall situation with Joe to anyone else in the house, or did she keep her concerns between the two of you?
+User : no
+ChatBot : Did anyone else in the house notice or mention anything unusual about Mia's behavior or situation that you are aware of?
+User : I dont know
+ChatBot : Did you notice any changes in Joe's behavior or financial situation after Mia raised her concerns?
+User : yes.he started being more money minded 
+ChatBot : How did Joe's becoming more money-minded manifest in his interactions or decisions within the house?
+User : no one discussed anything about it
+ChatBot : Did Mia have any discussions or confrontations with Joe or anyone else in the house regarding the financial discrepancies?
+User : I am not aware of that 
+ChatBot : Did Mia seem stressed or anxious in the days following these financial transactions?
+User : yes
+ChatBot : Did Mia's stress or anxiety affect her relationships with others in the house, including you?
+User : yes
+ChatBot : In what ways did Mia's stress or anxiety impact her interactions with you and others in the house?
+User : she was crying a lot 
+ChatBot : Did Mia share with you or anyone else in the house the reasons why she was crying?
+User : no
+ChatBot : Did you notice any changes in Mia's behavior towards Joe or Susan after the financial transactions were made?
+User : yes.she did not want to talk to them 
+ChatBot : Did Mia express to you or anyone else any specific concerns or issues she had with Joe or Susan regarding the financial transactions?
+User : she said she wanted to move to a new house 
+ChatBot : Did Mia mention any plans or steps she was taking towards moving to a new house?
+User : yes
+ChatBot : Did Mia discuss these plans or steps with you in detail, or did she keep them vague?
+User : yes
+ChatBot : Can you tell me what specific details Mia shared with you about her plans to move to a new house?
+User : I dont remmener all that 
+ChatBot : Did Mia ever mention feeling cheated or expressing regret about the financial arrangements she made with Joe or Susan?
+User : thank you for your time.i need to go now 
+ChatBot : Before you go, can I ask if Mia had expressed any concerns about the living arrangements or the number of people staying in the house?
+==================================================================================================================================================================================================================================================***End of conversatio with Vishnu***======================================================================================================================================================================================================================================================================================================================================================================================================================
