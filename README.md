@@ -1,5 +1,17 @@
 # Cogitative Sleuth: A Sophisticated AI Investigation Initiative
 
+## File Descriptions
+
+| File Name                                      | Description                                                                           |
+|-----------------------------------------------|---------------------------------------------------------------------------------------|
+| Casel_Case2.ipynb                             | Python code for the first two cases, evaluating GPT-4's effectiveness in investigations.|
+| Dialogue_2024-04-19_03-15-00.txt              | Dialogue files of conversations during the first two cases, providing interaction insights.|
+| Case_3.ipynb                                  | Python code for the third case, assessing the AI's performance in a different scenario.    |
+| Behavior Analysis Interview.pdf               | File containing details of the interrogation technique utilized in the study.            |
+| Dialogue_2024-04-18_00-46-11.txt              | Dialogue file of AI communication with four individuals simultaneously, third case.       |
+| investigation_chat_file.pdf                   | PDF copy of dialogue file showcasing interactions between AI and multiple individuals.    |
+| Dialogue_Conclusion_2024-04-18_01-57-26.txt  | Final conclusion dialogue file of third case, summarizing investigation outcomes.         |
+
 
 ## Introduction <a name="introduction"></a>
 
@@ -36,14 +48,4 @@ These dependencies can be installed using the following commands:
 !pip install openai
 !pip install langchain
 
-
-## File Descriptions
-
-- **Casel_Case2.ipynb:** Contains the Python code for the first two cases, evaluating the effectiveness of GPT-4 in investigative scenarios.
-- **Dialogue_2024-04-19_03-15-00.txt:** Dialogue files of the conversations conducted during the first two cases, providing insights into the interactions between the AI and participants.
-- **Case_3.ipynb:** Includes the Python code for the third case, assessing the AI's performance in a different investigative scenario.
-- **Behavior Analysis Interview.pdf:** A file passed to LangChainWithFiles.ipynb, containing details of the interrogation technique utilized in the study.
-- **Dialogue_2024-04-18_00-46-11.txt:** Dialogue file of the AI communicating with four individuals simultaneously, as part of the third case.
-- **investigation_chat_file.pdf:** A PDF copy of the dialogue file (Dialogue_2024-04-18_00-46-11.txt) showcasing interactions between the AI and multiple individuals.
-- **Dialogue_Conclusion_2024-04-18_01-57-26.txt:** Final conclusion dialogue file of the third case, summarizing the outcomes of the investigation.
 
